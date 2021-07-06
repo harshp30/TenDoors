@@ -56,6 +56,7 @@ bool PlayGame(int Difficulty)
 int main()
 {
 
+    std::cout << "\n";
     // Print initial messages to the terminal
     std::cout << "Welcome to 10 Doors...\n";
     std::cout << "You have been kindapped by a bunch of computer hackers who want to kill you because you said linux sucks...\n";
